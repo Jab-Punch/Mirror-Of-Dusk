@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CSCursor
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Windows Store Apps
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8fab0faa92247be489419f30f96c4e5e, type: 3}
+    - {fileID: 2800000, guid: bb21b82dfc64b8f478da8be6c5112dba, type: 3}
+    - {fileID: 2800000, guid: bd2366887149a2a4c986d9795c20f235, type: 3}
+    - {fileID: 2800000, guid: 2a34ae31a22cddf41b916150cee3596a, type: 3}
+    - {fileID: 2800000, guid: 3cb90295b552d114693ae062e1ee039f, type: 3}
+    - {fileID: 2800000, guid: c7ae5ecba80e4cd42806365c5c8b7fbb, type: 3}
+    - {fileID: 2800000, guid: 05d269e01e297ba44840f16c2a439d39, type: 3}
+    totalSpriteSurfaceArea: 42588
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 05d269e01e297ba44840f16c2a439d39, type: 3}
+  - {fileID: 21300000, guid: 2a34ae31a22cddf41b916150cee3596a, type: 3}
+  - {fileID: 21300000, guid: 3cb90295b552d114693ae062e1ee039f, type: 3}
+  - {fileID: 21300000, guid: bd2366887149a2a4c986d9795c20f235, type: 3}
+  - {fileID: 21300000, guid: 8fab0faa92247be489419f30f96c4e5e, type: 3}
+  - {fileID: 21300000, guid: c7ae5ecba80e4cd42806365c5c8b7fbb, type: 3}
+  - {fileID: 21300000, guid: bb21b82dfc64b8f478da8be6c5112dba, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - characterselect_cursor_number_4
+  - characterselect_cursor_number_1
+  - characterselect_cursor_number_2
+  - characterselect_cursor_glow
+  - characterselect_cursor_body
+  - characterselect_cursor_number_3
+  - CSCursorColor
+  m_Tag: CSCursor
+  m_IsVariant: 0

@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: options_config_buttons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+    totalSpriteSurfaceArea: 247744
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300152, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300154, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300134, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300076, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300140, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300132, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300078, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300142, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300130, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300144, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300128, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300146, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300126, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300124, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300116, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300122, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300118, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300120, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300060, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300156, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300062, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300098, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300064, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300104, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300096, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300066, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300106, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300068, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300100, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300070, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300138, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300102, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300090, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300072, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300136, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300112, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300088, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300074, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300114, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300094, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300108, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300092, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300110, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300082, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300080, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300086, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300084, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300018, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300016, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300006, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300004, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300002, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300000, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300014, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300012, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300058, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300010, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300056, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300008, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300046, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300044, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300036, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300042, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300038, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300040, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300032, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300054, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300034, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300052, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300028, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300050, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300030, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300048, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300024, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300026, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300020, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300022, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300148, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  - {fileID: 21300150, guid: 50ca15f5fac99d846b152917af34816a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - options_config_buttons_76
+  - options_config_buttons_77
+  - options_config_buttons_67
+  - options_config_buttons_38
+  - options_config_buttons_70
+  - options_config_buttons_66
+  - options_config_buttons_39
+  - options_config_buttons_71
+  - options_config_buttons_65
+  - options_config_buttons_72
+  - options_config_buttons_64
+  - options_config_buttons_73
+  - options_config_buttons_63
+  - options_config_buttons_62
+  - options_config_buttons_58
+  - options_config_buttons_61
+  - options_config_buttons_59
+  - options_config_buttons_60
+  - options_config_buttons_30
+  - options_config_buttons_78
+  - options_config_buttons_31
+  - options_config_buttons_49
+  - options_config_buttons_32
+  - options_config_buttons_52
+  - options_config_buttons_48
+  - options_config_buttons_33
+  - options_config_buttons_53
+  - options_config_buttons_34
+  - options_config_buttons_50
+  - options_config_buttons_35
+  - options_config_buttons_69
+  - options_config_buttons_51
+  - options_config_buttons_45
+  - options_config_buttons_36
+  - options_config_buttons_68
+  - options_config_buttons_56
+  - options_config_buttons_44
+  - options_config_buttons_37
+  - options_config_buttons_57
+  - options_config_buttons_47
+  - options_config_buttons_54
+  - options_config_buttons_46
+  - options_config_buttons_55
+  - options_config_buttons_41
+  - options_config_buttons_40
+  - options_config_buttons_43
+  - options_config_buttons_42
+  - options_config_buttons_9
+  - options_config_buttons_8
+  - options_config_buttons_3
+  - options_config_buttons_2
+  - options_config_buttons_1
+  - options_config_buttons_0
+  - options_config_buttons_7
+  - options_config_buttons_6
+  - options_config_buttons_29
+  - options_config_buttons_5
+  - options_config_buttons_28
+  - options_config_buttons_4
+  - options_config_buttons_23
+  - options_config_buttons_22
+  - options_config_buttons_18
+  - options_config_buttons_21
+  - options_config_buttons_19
+  - options_config_buttons_20
+  - options_config_buttons_16
+  - options_config_buttons_27
+  - options_config_buttons_17
+  - options_config_buttons_26
+  - options_config_buttons_14
+  - options_config_buttons_25
+  - options_config_buttons_15
+  - options_config_buttons_24
+  - options_config_buttons_12
+  - options_config_buttons_13
+  - options_config_buttons_10
+  - options_config_buttons_11
+  - options_config_buttons_74
+  - options_config_buttons_75
+  m_Tag: options_config_buttons
+  m_IsVariant: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b20c3306558b45948bc209e3762f4363
+  m_SerializeEntries:
+  - m_GUID: fdcc198715021054393f0b7bc1380a6c
+    m_Address: Assets/Audio/Music/The King Of Fighters XIII Console OST - Top Menu
+      (Vs Local Match).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8300000, guid: fdcc198715021054393f0b7bc1380a6c, type: 3}
+    m_TargetAsset: {fileID: 8300000, guid: fdcc198715021054393f0b7bc1380a6c, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7f0457e3660f0af44bef9b2ab9e2e124, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1d181792fdf57e547a774c690726a498, type: 2}
+    - {fileID: 11400000, guid: 17df05a7433350b41b68b4b7c2369860, type: 2}

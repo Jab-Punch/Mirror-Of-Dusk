@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 405550327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ac5c638ed9c0749beda3406e1d05d94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f81471f4cfc7bf93c7fa752ebb4eb40
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpriteAtlas/options_config_button.spriteatlas
+Dependencies: []

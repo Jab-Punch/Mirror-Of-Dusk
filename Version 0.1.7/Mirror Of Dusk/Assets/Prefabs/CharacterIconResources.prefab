@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5784499870431705547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6365703220546452415}
+  - component: {fileID: 4883993057548387805}
+  m_Layer: 0
+  m_Name: CharacterIconResources
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6365703220546452415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5784499870431705547}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4883993057548387805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5784499870431705547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa5b78c2c4028f4ea191ca6616352d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - name: Unknown
+    characterCode: 0
+    normal:
+      _sprite: {fileID: 21300000, guid: 1aa3a299679ed5a4da564cdfaca1f67d, type: 3}
+      selectPalettes:
+      - name: Default
+        colorCode: 0
+        bustUpPalette: {fileID: 2100000, guid: fc7c26c4c4db50b43a0594a9caaefcb5, type: 2}
+        colorA: {r: 0.25882354, g: 0.20000002, b: 0.32941177, a: 1}
+        colorB: {r: 0.7137255, g: 0.654902, b: 0.78823537, a: 1}
+        colorC: {r: 0.56078434, g: 0.5019608, b: 0.63529414, a: 1}
+    reflection:
+      _sprite: {fileID: 21300000, guid: e28fe537075e6c64c9f3e09545def96e, type: 3}
+      selectPalettes:
+      - name: Default
+        colorCode: 0
+        bustUpPalette: {fileID: 2100000, guid: fc7c26c4c4db50b43a0594a9caaefcb5, type: 2}
+        colorA: {r: 0.25882354, g: 0.20000002, b: 0.32941177, a: 1}
+        colorB: {r: 0.7137255, g: 0.654902, b: 0.78823537, a: 1}
+        colorC: {r: 0.56078434, g: 0.5019608, b: 0.63529414, a: 1}
+    backgroundColor0: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor1: {r: 1, g: 1, b: 1, a: 1}
+  - name: Tilly
+    characterCode: 1
+    normal:
+      _sprite: {fileID: 21300000, guid: c4cc47b301248a24dbc9415adcc80bed, type: 3}
+      selectPalettes:
+      - name: usergui_color_blackbronze
+        colorCode: 0
+        bustUpPalette: {fileID: 2100000, guid: f15f5387ecd83b848a3ef37008afe2ac, type: 2}
+        colorA: {r: 0.54509807, g: 0.54509807, b: 0.54509807, a: 1}
+        colorB: {r: 0.80392164, g: 0.44705886, b: 0.37254903, a: 1}
+        colorC: {r: 0.4666667, g: 0.2392157, b: 0.6313726, a: 1}
+      - name: usergui_color_scryingemerald
+        colorCode: 1
+        bustUpPalette: {fileID: 2100000, guid: d24a3edffd8923d428d7f7de919e7a57, type: 2}
+        colorA: {r: 0.654902, g: 0.4901961, b: 0.43921572, a: 1}
+        colorB: {r: 0.4666667, g: 0.7058824, b: 0.4901961, a: 1}
+        colorC: {r: 0.2392157, g: 0.43529415, b: 0.6313726, a: 1}
+      - name: usergui_color_rosysting
+        colorCode: 2
+        bustUpPalette: {fileID: 2100000, guid: c950e5323c5619e4b9be5c3962e8a195, type: 2}
+        colorA: {r: 0.6156863, g: 0.5921569, b: 0.47450984, a: 1}
+        colorB: {r: 0.77647066, g: 0.53333336, b: 0.8196079, a: 1}
+        colorC: {r: 0.8745099, g: 0.43137258, b: 0.62352943, a: 1}
+      - name: usergui_color_jadesnowflake
+        colorCode: 3
+        bustUpPalette: {fileID: 2100000, guid: 808b19291440fca4c87a1f5611dc5241, type: 2}
+        colorA: {r: 0.38823533, g: 0.76470596, b: 0.32941177, a: 1}
+        colorB: {r: 0.8078432, g: 0.81568635, b: 1, a: 1}
+        colorC: {r: 0.2392157, g: 0.24705884, b: 0.6313726, a: 1}
+      - name: usergui_color_sparkingdoll
+        colorCode: 4
+        bustUpPalette: {fileID: 2100000, guid: 05596c6a45c261a45a29cd4026da9675, type: 2}
+        colorA: {r: 1, g: 0.61960787, b: 0.60784316, a: 1}
+        colorB: {r: 0.9607844, g: 0.92549026, b: 0.47450984, a: 1}
+        colorC: {r: 0.4039216, g: 0.47450984, b: 0.39607847, a: 1}
+      - name: usergui_color_daybreakcutie
+        colorCode: 5
+        bustUpPalette: {fileID: 2100000, guid: 13c3b7189dd301f4aa88b14dacdfff0a, type: 2}
+        colorA: {r: 0.44705886, g: 0.4431373, b: 0.64705884, a: 1}
+        colorB: {r: 1, g: 0.7372549, b: 0.57254905, a: 1}
+        colorC: {r: 0.49411768, g: 0.7254902, b: 1, a: 1}
+      - name: usergui_color_royaltempest
+        colorCode: 6
+        bustUpPalette: {fileID: 2100000, guid: 0ae1c599cd71aea459d1da8e8f73b23a, type: 2}
+        colorA: {r: 0.70980394, g: 0.38431376, b: 0.6862745, a: 1}
+        colorB: {r: 0.45882356, g: 0.5254902, b: 0.47058827, a: 1}
+        colorC: {r: 0.2392157, g: 0.38431376, b: 0.6313726, a: 1}
+      - name: usergui_color_ancientyouth
+        colorCode: 7
+        bustUpPalette: {fileID: 2100000, guid: c52d6edbce63a3340ade4e52b9f8710b, type: 2}
+        colorA: {r: 0.3529412, g: 0.3921569, b: 0.77647066, a: 1}
+        colorB: {r: 0.95294124, g: 0.89019614, b: 0.90196085, a: 1}
+        colorC: {r: 0.6313726, g: 0.2392157, b: 0.6117647, a: 1}
+    reflection:
+      _sprite: {fileID: 21300000, guid: 76e67566c2c25cf40bb9ed2e06ebd818, type: 3}
+      selectPalettes:
+      - name: usergui_color_blackbronze
+        colorCode: 0
+        bustUpPalette: {fileID: 2100000, guid: f15f5387ecd83b848a3ef37008afe2ac, type: 2}
+        colorA: {r: 0.54509807, g: 0.54509807, b: 0.54509807, a: 1}
+        colorB: {r: 0.80392164, g: 0.44705886, b: 0.37254903, a: 1}
+        colorC: {r: 0.4666667, g: 0.2392157, b: 0.6313726, a: 1}
+      - name: usergui_color_scryingemerald
+        colorCode: 1
+        bustUpPalette: {fileID: 2100000, guid: d24a3edffd8923d428d7f7de919e7a57, type: 2}
+        colorA: {r: 0.654902, g: 0.4901961, b: 0.43921572, a: 1}
+        colorB: {r: 0.4666667, g: 0.7058824, b: 0.4901961, a: 1}
+        colorC: {r: 0.2392157, g: 0.43529415, b: 0.6313726, a: 1}
+      - name: usergui_color_rosysting
+        colorCode: 2
+        bustUpPalette: {fileID: 2100000, guid: c950e5323c5619e4b9be5c3962e8a195, type: 2}
+        colorA: {r: 0.6156863, g: 0.5921569, b: 0.47450984, a: 1}
+        colorB: {r: 0.77647066, g: 0.53333336, b: 0.8196079, a: 1}
+        colorC: {r: 0.8745099, g: 0.43137258, b: 0.62352943, a: 1}
+      - name: usergui_color_jadesnowflake
+        colorCode: 3
+        bustUpPalette: {fileID: 2100000, guid: 808b19291440fca4c87a1f5611dc5241, type: 2}
+        colorA: {r: 0.38823533, g: 0.76470596, b: 0.32941177, a: 1}
+        colorB: {r: 0.8078432, g: 0.81568635, b: 1, a: 1}
+        colorC: {r: 0.2392157, g: 0.24705884, b: 0.6313726, a: 1}
+      - name: usergui_color_sparkingdoll
+        colorCode: 4
+        bustUpPalette: {fileID: 2100000, guid: 05596c6a45c261a45a29cd4026da9675, type: 2}
+        colorA: {r: 1, g: 0.61960787, b: 0.60784316, a: 1}
+        colorB: {r: 0.9607844, g: 0.92549026, b: 0.47450984, a: 1}
+        colorC: {r: 0.4039216, g: 0.47450984, b: 0.39607847, a: 1}
+      - name: usergui_color_daybreakcutie
+        colorCode: 5
+        bustUpPalette: {fileID: 2100000, guid: 13c3b7189dd301f4aa88b14dacdfff0a, type: 2}
+        colorA: {r: 0.44705886, g: 0.4431373, b: 0.64705884, a: 1}
+        colorB: {r: 1, g: 0.7372549, b: 0.57254905, a: 1}
+        colorC: {r: 0.49411768, g: 0.7254902, b: 1, a: 1}
+      - name: usergui_color_royaltempest
+        colorCode: 6
+        bustUpPalette: {fileID: 2100000, guid: 0ae1c599cd71aea459d1da8e8f73b23a, type: 2}
+        colorA: {r: 0.70980394, g: 0.38431376, b: 0.6862745, a: 1}
+        colorB: {r: 0.45882356, g: 0.5254902, b: 0.47058827, a: 1}
+        colorC: {r: 0.2392157, g: 0.38431376, b: 0.6313726, a: 1}
+      - name: usergui_color_ancientyouth
+        colorCode: 7
+        bustUpPalette: {fileID: 2100000, guid: c52d6edbce63a3340ade4e52b9f8710b, type: 2}
+        colorA: {r: 0.3529412, g: 0.3921569, b: 0.77647066, a: 1}
+        colorB: {r: 0.95294124, g: 0.89019614, b: 0.90196085, a: 1}
+        colorC: {r: 0.6313726, g: 0.2392157, b: 0.6117647, a: 1}
+    backgroundColor0: {r: 0.6, g: 0, b: 1, a: 1}
+    backgroundColor1: {r: 0.82, g: 0, b: 1, a: 1}

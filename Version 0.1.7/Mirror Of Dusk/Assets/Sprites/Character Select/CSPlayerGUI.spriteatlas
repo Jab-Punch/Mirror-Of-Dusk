@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CSPlayerGUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Windows Store Apps
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4cf92d1cafa4f7046ad3bd766c6a806f, type: 3}
+    - {fileID: 2800000, guid: c8583d73048e31448a19d16af2d31909, type: 3}
+    - {fileID: 2800000, guid: 0b12435075a8d154c825ed8892292446, type: 3}
+    - {fileID: 102900000, guid: 592b0334e3e60e44da571a09ba9b750e, type: 3}
+    - {fileID: 102900000, guid: 88626c60925d9f54b9c0bde9cedbfdf3, type: 3}
+    - {fileID: 102900000, guid: 4a6c041871a11ae4386f53148b78c2d5, type: 3}
+    - {fileID: 2800000, guid: 6c83753bcf6aa074e864e1ee449068a4, type: 3}
+    - {fileID: 2800000, guid: 6516d2f45d0a5034bb79b282fe4b8e31, type: 3}
+    - {fileID: 2800000, guid: 05cdcf1c9ff08634f97ca0d35d67d7b3, type: 3}
+    - {fileID: 2800000, guid: 08e4f9ab8596a4c40af532e1fb8ee83a, type: 3}
+    - {fileID: 2800000, guid: 5775e35761faea74dbe0fc984cac1494, type: 3}
+    - {fileID: 21300000, guid: 20773bbed824bd64a964a79b42dd6951, type: 3}
+    - {fileID: 21300000, guid: cccc4107d58dd924887187412d19b6a6, type: 3}
+    - {fileID: 2800000, guid: 24f3806e8ac573847a950670e9f12642, type: 3}
+    - {fileID: 2800000, guid: 5a34f89e40b07544a9561e014b14b40e, type: 3}
+    totalSpriteSurfaceArea: 1538285
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0b12435075a8d154c825ed8892292446, type: 3}
+  - {fileID: 21300000, guid: c8583d73048e31448a19d16af2d31909, type: 3}
+  - {fileID: 21300000, guid: 6516d2f45d0a5034bb79b282fe4b8e31, type: 3}
+  - {fileID: 21300000, guid: cccc4107d58dd924887187412d19b6a6, type: 3}
+  - {fileID: 21300000, guid: 5775e35761faea74dbe0fc984cac1494, type: 3}
+  - {fileID: 21300016, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300010, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300008, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300014, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300012, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300002, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300000, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300006, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300004, guid: 396aab67b0dc52d42a733ba90e221769, type: 3}
+  - {fileID: 21300004, guid: 3576fcbaf8962a24bbcf4855c5cea301, type: 3}
+  - {fileID: 21300006, guid: 3576fcbaf8962a24bbcf4855c5cea301, type: 3}
+  - {fileID: 21300000, guid: 3576fcbaf8962a24bbcf4855c5cea301, type: 3}
+  - {fileID: 21300002, guid: 3576fcbaf8962a24bbcf4855c5cea301, type: 3}
+  - {fileID: 21300000, guid: 6c83753bcf6aa074e864e1ee449068a4, type: 3}
+  - {fileID: 21300000, guid: 08e4f9ab8596a4c40af532e1fb8ee83a, type: 3}
+  - {fileID: 21300000, guid: 4cf92d1cafa4f7046ad3bd766c6a806f, type: 3}
+  - {fileID: 21300000, guid: 05cdcf1c9ff08634f97ca0d35d67d7b3, type: 3}
+  - {fileID: 21300002, guid: 24f3806e8ac573847a950670e9f12642, type: 3}
+  - {fileID: 21300000, guid: 24f3806e8ac573847a950670e9f12642, type: 3}
+  - {fileID: 21300002, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300000, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300006, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300004, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300010, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300008, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300014, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300012, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300018, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300016, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300020, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300022, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300024, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300026, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300028, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300030, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300032, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300034, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300036, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300038, guid: 724f3f7e9ea957c4a977fcd788acfc18, type: 3}
+  - {fileID: 21300002, guid: 5a34f89e40b07544a9561e014b14b40e, type: 3}
+  - {fileID: 21300000, guid: 5a34f89e40b07544a9561e014b14b40e, type: 3}
+  - {fileID: 21300000, guid: 20773bbed824bd64a964a79b42dd6951, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CSPlayerGUIBackSmall
+  - CSPlayerGUIBackLarge
+  - characterselect_rules_base
+  - characterselect_basetext_back
+  - characterselect_title_base
+  - CSPlayerGUIIcon_8
+  - CSPlayerGUIIcon_5
+  - CSPlayerGUIIcon_4
+  - CSPlayerGUIIcon_7
+  - CSPlayerGUIIcon_6
+  - CSPlayerGUIIcon_1
+  - CSPlayerGUIIcon_0
+  - CSPlayerGUIIcon_3
+  - CSPlayerGUIIcon_2
+  - CharacterSelectPlayerGNo_2
+  - CharacterSelectPlayerGNo_3
+  - CharacterSelectPlayerGNo_0
+  - CharacterSelectPlayerGNo_1
+  - characterselect_back_base
+  - characterselect_baseicon_rules
+  - CharacterSelectPlayerGUI
+  - characterselect_baseicon_back
+  - CSSideBackground_1
+  - CSSideBackground_0
+  - CharacterSelectCharacterName_1
+  - CharacterSelectCharacterName_0
+  - CharacterSelectCharacterName_3
+  - CharacterSelectCharacterName_2
+  - CharacterSelectCharacterName_5
+  - CharacterSelectCharacterName_4
+  - CharacterSelectCharacterName_7
+  - CharacterSelectCharacterName_6
+  - CharacterSelectCharacterName_9
+  - CharacterSelectCharacterName_8
+  - CharacterSelectCharacterName_10
+  - CharacterSelectCharacterName_11
+  - CharacterSelectCharacterName_12
+  - CharacterSelectCharacterName_13
+  - CharacterSelectCharacterName_14
+  - CharacterSelectCharacterName_15
+  - CharacterSelectCharacterName_16
+  - CharacterSelectCharacterName_17
+  - CharacterSelectCharacterName_18
+  - CharacterSelectCharacterName_19
+  - CharacterSelectPlayerGUISub_1
+  - CharacterSelectPlayerGUISub_0
+  - characterselect_basetext_rules
+  m_Tag: CSPlayerGUI
+  m_IsVariant: 0

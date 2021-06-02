@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 73495356
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: font_arial
+      Dependencies: {}
+    Info_1:
+      Name: font_notoserifcjk
+      Dependencies: {}
+    Info_2:
+      Name: tmpfont_notoserifcjk_entertext
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp_light
+    Info_3:
+      Name: music_kof
+      Dependencies: {}
+    Info_4:
+      Name: music_bgm_title_screen
+      Dependencies: {}
+    Info_5:
+      Name: atlas_splashscreen_jabpunch
+      Dependencies: {}
+    Info_6:
+      Name: atlas_scene_loader_shard
+      Dependencies: {}
+    Info_7:
+      Name: atlas_title_background_set
+      Dependencies: {}
+    Info_8:
+      Name: tmpfont_notoserifcjk_sdf_goudosdetail
+      Dependencies:
+        Dependency_0: font_notoserifcjk
+    Info_9:
+      Name: tmpfont_goudosi_mainmenu
+      Dependencies: {}
+    Info_10:
+      Name: tmpfont_goudosi_smalldetail
+      Dependencies: {}
+    Info_11:
+      Name: atlas_mainmenu_background_set
+      Dependencies: {}
+    Info_12:
+      Name: atlas_mainmenu_ui_set
+      Dependencies: {}
+    Info_13:
+      Name: tmpfont_goudosi_mainmenu_selected
+      Dependencies: {}
+    Info_14:
+      Name: tmpfont_menu_label_source_han_serif
+      Dependencies: {}
+    Info_15:
+      Name: font_source_han_serif_jp
+      Dependencies: {}
+    Info_16:
+      Name: tex_screen_fx
+      Dependencies: {}
+    Info_17:
+      Name: tmpfont_menu_letter_source_han_serif
+      Dependencies: {}
+    Info_18:
+      Name: atlas_options_config_button
+      Dependencies: {}
+    Info_19:
+      Name: atlas_options_config_buttons
+      Dependencies: {}
+    Info_20:
+      Name: atlas_options_gui_set
+      Dependencies: {}
+    Info_21:
+      Name: tmpfont_goudosi_characterselect_title_ro
+      Dependencies: {}
+    Info_22:
+      Name: tmpfont_goudosi_characterselect_title_jp
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp
+    Info_23:
+      Name: tmpfont_source_han_serif_jp_mainmenu
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp_light
+    Info_24:
+      Name: tmpfont_source_han_serif_jp_mainmenu_selected
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp_light
+    Info_25:
+      Name: tmpfont_source_han_serif_jp_goudosdetail
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp
+    Info_26:
+      Name: font_source_han_serif_jp_light
+      Dependencies:
+        Dependency_0: font_source_han_serif_jp

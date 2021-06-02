@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1593035836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64c9d8ee22e1ae18d94cb6c2159e37c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d60d1eb4c7e99bf6d119c16dc6d5ab4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/arial.ttf
+Dependencies: []

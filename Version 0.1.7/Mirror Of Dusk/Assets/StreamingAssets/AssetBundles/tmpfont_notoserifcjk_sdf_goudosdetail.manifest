@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2439396086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e7cf04168d138f5f5d7a94c59768f3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddd8b6abb02e62b03cb3153a9abf4458
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/notoserifcjk_sdf_goudosdetail.asset
+Dependencies:
+- D:/Jesse's Portfolio/Mirror Of Dusk Content/Main Game/Version 0.1.6/Mirror Of Dusk/Assets/StreamingAssets/AssetBundles/font_notoserifcjk

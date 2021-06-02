@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1826766519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d56195df3abef066eb9f24382009bbce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texture2D/mod_screen_fx_0005.png
+- Assets/Texture2D/mod_screen_fx_0001.png
+- Assets/Texture2D/mod_screen_fx_0000.png
+- Assets/Texture2D/mod_screen_fx_0003.png
+- Assets/Texture2D/mod_screen_fx_0002.png
+- Assets/Texture2D/mod_screen_fx_0004.png
+Dependencies: []

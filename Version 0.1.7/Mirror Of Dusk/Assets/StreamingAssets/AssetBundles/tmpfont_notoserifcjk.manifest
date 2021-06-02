@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3015740947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ff5136d85e938fa254d532f507377bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddd8b6abb02e62b03cb3153a9abf4458
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/NotoSerifCJK SDF.asset
+- Assets/Fonts/NotoSerifCJK MainMenu.mat
+Dependencies:
+- D:/Jesse's Portfolio/Mirror Of Dusk Content/Main Game/Version 0.1.2/Mirror Of Dusk/Assets/StreamingAssets/AssetBundles/font_notoserifcjk

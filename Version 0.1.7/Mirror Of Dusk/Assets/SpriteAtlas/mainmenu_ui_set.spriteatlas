@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mainmenu_ui_set
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 53df46b83d7df6443aef8829191b1bcb, type: 3}
+    - {fileID: 2800000, guid: d610c88ca64c20a4e9cf3c5bfda5d8e0, type: 3}
+    - {fileID: 2800000, guid: 9818ad1172ba00946a196e4608c08e40, type: 3}
+    - {fileID: 2800000, guid: ee7943f308561a34d8fa81a1c2d5ad8b, type: 3}
+    - {fileID: 2800000, guid: be7f5aa3aac45ad4d9e9cfd32f58e9aa, type: 3}
+    - {fileID: 2800000, guid: ccfd5361e9d96644383fe6bb9eb17686, type: 3}
+    - {fileID: 2800000, guid: 56c0bb233ae95f44380de71a5cb27baf, type: 3}
+    - {fileID: 2800000, guid: 9dc1e4afb58ba1b4b98ff76b8b449acd, type: 3}
+    - {fileID: 2800000, guid: 7ad5d9289cfdf3f40b54adf27742e184, type: 3}
+    - {fileID: 2800000, guid: d54194fa0c2d7154781350b2f5880c5c, type: 3}
+    - {fileID: 2800000, guid: 89b2fddc64ab5684ba0e241dbcb6c90e, type: 3}
+    - {fileID: 2800000, guid: 95a26f8661e087e4a80aaf27e4e74342, type: 3}
+    - {fileID: 2800000, guid: 94a8b4e4e2c03b6429bd8667931d8002, type: 3}
+    - {fileID: 2800000, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+    totalSpriteSurfaceArea: 8147971
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9818ad1172ba00946a196e4608c08e40, type: 3}
+  - {fileID: 21300000, guid: ccfd5361e9d96644383fe6bb9eb17686, type: 3}
+  - {fileID: 21300000, guid: 56c0bb233ae95f44380de71a5cb27baf, type: 3}
+  - {fileID: 21300000, guid: be7f5aa3aac45ad4d9e9cfd32f58e9aa, type: 3}
+  - {fileID: 21300000, guid: ee7943f308561a34d8fa81a1c2d5ad8b, type: 3}
+  - {fileID: 21300000, guid: 94a8b4e4e2c03b6429bd8667931d8002, type: 3}
+  - {fileID: 21300000, guid: 95a26f8661e087e4a80aaf27e4e74342, type: 3}
+  - {fileID: 21300000, guid: 7ad5d9289cfdf3f40b54adf27742e184, type: 3}
+  - {fileID: 21300000, guid: 53df46b83d7df6443aef8829191b1bcb, type: 3}
+  - {fileID: 21300012, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300014, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300008, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300010, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300004, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300006, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300000, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300002, guid: 385422095b074014c8eaa63750ecb09a, type: 3}
+  - {fileID: 21300000, guid: d54194fa0c2d7154781350b2f5880c5c, type: 3}
+  - {fileID: 21300000, guid: d610c88ca64c20a4e9cf3c5bfda5d8e0, type: 3}
+  - {fileID: 21300000, guid: 89b2fddc64ab5684ba0e241dbcb6c90e, type: 3}
+  - {fileID: 21300000, guid: 9dc1e4afb58ba1b4b98ff76b8b449acd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BigShard-White
+  - MainForm-WithGlow2
+  - MainFormBackground
+  - Hand-Tilly-A
+  - Hand-Tilly
+  - OtherModeImage
+  - MultiplayerModeImage
+  - SubForm-WithGlow
+  - BigShard-Inner
+  - ShardGleam_6
+  - ShardGleam_7
+  - ShardGleam_4
+  - ShardGleam_5
+  - ShardGleam_2
+  - ShardGleam_3
+  - ShardGleam_0
+  - ShardGleam_1
+  - TintScreen
+  - BigShard-Outer
+  - SoloModeImage
+  - MiniTitle-WithGlow
+  m_Tag: mainmenu_ui_set
+  m_IsVariant: 0

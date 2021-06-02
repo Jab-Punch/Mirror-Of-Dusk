@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2990248215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a701f5755e5b35636e11b95c0a7d01e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ddd8b6abb02e62b03cb3153a9abf4458
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/goudosi_mainmenu.asset
+Dependencies: []

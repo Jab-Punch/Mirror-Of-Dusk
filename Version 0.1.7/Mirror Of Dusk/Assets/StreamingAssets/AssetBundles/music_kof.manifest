@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 762888169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35de24a55480fa5e0cdbcaf145bb5585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/Music/The King Of Fighters XIII Console OST - Top Menu (Vs Local Match).mp3
+Dependencies: []

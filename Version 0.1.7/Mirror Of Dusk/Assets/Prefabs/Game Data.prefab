@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1988662721201722}
+  m_IsPrefabAsset: 1
+--- !u!1 &1953002284565782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4744262689540476}
+  - component: {fileID: 114401713680855376}
+  m_Layer: 0
+  m_Name: FighterData_Noel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1988662721201722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4780016695234798}
+  - component: {fileID: 114898760261805640}
+  m_Layer: 0
+  m_Name: Game Data
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4744262689540476
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1953002284565782}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4780016695234798}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4780016695234798
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1988662721201722}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4744262689540476}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114401713680855376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1953002284565782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2252ea6af2829124daee5f0b149fc205, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fighterColorData:
+  - name: 
+    colorCode: 1
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 2
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 3
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 4
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 5
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 6
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 7
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+  - name: 
+    colorCode: 8
+    selectColors:
+      colorA: {r: 0, g: 0, b: 0, a: 0}
+      colorB: {r: 0, g: 0, b: 0, a: 0}
+      colorC: {r: 0, g: 0, b: 0, a: 0}
+    selectPalettes: []
+--- !u!114 &114898760261805640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1988662721201722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e316f05c71c038409a06896f922a665, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playersOn:
+  - player: 1
+    active: 1
+  - player: 2
+    active: 1
+  - player: 3
+    active: 1
+  - player: 4
+    active: 1
+  modeStyle: 0
+  modeReflection: 0
+  defaultStockCount: 1
+  timerSetting: 0
+  defaultInitialHealth: 3000
+  defaultInitialShards: 50
+  defaultTotalShards: 500
+  defaultShardStrength: 150
+  damageRatio: 1
+  barrierRatio: 1
+  userNameReference:
+  - Name: Default
+    id: 0
+    controllerTypeSetting: 1
+  - Name: JAB
+    id: 1
+    controllerTypeSetting: 1
+  - Name: YoT
+    id: 2
+    controllerTypeSetting: 0
+  - Name: Yamatt
+    id: 3
+    controllerTypeSetting: 0
+  - Name: Rinak
+    id: 4
+    controllerTypeSetting: 2
+  - Name: Mecato
+    id: 5
+    controllerTypeSetting: 0
+  - Name: Imdogro
+    id: 6
+    controllerTypeSetting: 0

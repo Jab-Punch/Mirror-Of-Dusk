@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: splashscreen_jabpunch
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Windows Store Apps
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 078276b4eebcb8a46962c5150a7d1522, type: 3}
+    - {fileID: 2800000, guid: 319e50fc6ad653b4cb008556d2ef779f, type: 3}
+    - {fileID: 2800000, guid: 0e03c62346168ef4683110348cee4ec0, type: 3}
+    - {fileID: 2800000, guid: c63eafd3ad1175446a1754342a5e222f, type: 3}
+    - {fileID: 2800000, guid: 9e09bf7318f0f274dbc5328876630d65, type: 3}
+    - {fileID: 2800000, guid: d8a8820dc23d36349854584ff3b92d8c, type: 3}
+    - {fileID: 2800000, guid: 1667a52c1f6c6aa4b8535c0768be1f6d, type: 3}
+    totalSpriteSurfaceArea: 1789484
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0e03c62346168ef4683110348cee4ec0, type: 3}
+  - {fileID: 21300000, guid: 9e09bf7318f0f274dbc5328876630d65, type: 3}
+  - {fileID: 21300000, guid: c63eafd3ad1175446a1754342a5e222f, type: 3}
+  - {fileID: 21300000, guid: 078276b4eebcb8a46962c5150a7d1522, type: 3}
+  - {fileID: 21300000, guid: 1667a52c1f6c6aa4b8535c0768be1f6d, type: 3}
+  - {fileID: 21300000, guid: 319e50fc6ad653b4cb008556d2ef779f, type: 3}
+  - {fileID: 21300000, guid: d8a8820dc23d36349854584ff3b92d8c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - splashscreen_jabpunch_fist_1
+  - splashscreen_jabpunch_jab
+  - splashscreen_jabpunch_fist_2
+  - splashscreen_jabpunch_all
+  - splashscreen_jabpunch_games
+  - splashscreen_jabpunch_fist_0
+  - splashscreen_jabpunch_punch
+  m_Tag: splashscreen_jabpunch
+  m_IsVariant: 0

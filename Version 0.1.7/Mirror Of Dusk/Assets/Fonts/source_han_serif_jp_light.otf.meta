@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ce5053583c47a7949bc8398634392fce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Serif
+  fontNames:
+  - Source Han Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86d797ca6a9db5941aaf2d4e45139512, type: 3}
+  - {fileID: 12800000, guid: 6dc55befbaccfdd41a5c20f320436389, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: font_source_han_serif_jp_light
+  assetBundleVariant: 

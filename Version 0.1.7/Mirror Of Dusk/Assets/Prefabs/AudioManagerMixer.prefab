@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1377707149342722816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1377707149342722818}
+  - component: {fileID: 1377707149342722819}
+  m_Layer: 0
+  m_Name: AudioManagerMixer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1377707149342722818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377707149342722816}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1377707149342722819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377707149342722816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 185db9ee45657e24baa63f3ffb01c317, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mixer: {fileID: 24100000, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+  audioGroups:
+    _master: {fileID: 24300002, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+    _master_Options: {fileID: 243212512672272166, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _bgm_Options: {fileID: 243103385181136620, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _sfx_Options: {fileID: 243804121330771824, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _bgm: {fileID: 243794752697378030, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+    _stageBgm: {fileID: 243978870920981020, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _musicSting: {fileID: 243625880009771414, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _sfx: {fileID: 243862637997196570, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+    _stageSfx: {fileID: 243785592630385298, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _ambience: {fileID: 243419354714851232, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _creatures: {fileID: 243984612345550714, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _super: {fileID: 243424057676961700, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+    _noise: {fileID: 243452134894189650, guid: aa40409218e74f24684a34b6981905fc, type: 2}
+    _noiseConstant: {fileID: 243266727231631412, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
+    _noiseShortterm: {fileID: 243217440563120852, guid: aa40409218e74f24684a34b6981905fc,
+      type: 2}
